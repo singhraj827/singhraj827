@@ -1,12 +1,28 @@
-### Hello, I’m Abhishek Kumar
+## 👋 About Me
+I’m a passionate **Data Scientist** with expertise in uncovering insights from data and building data-driven solutions. My work focuses on leveraging machine learning, statistical modeling, and data visualization to solve real-world problems.
 
+---
 
-- 👀 I’m interested in Data Scientist
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Kaggle/collab
-- 📫 How to reach me Twitter - @sngh827. Instagram @sngh827. Gmail @er.abhisingh827@gmail.com
+## 🚀 Skills and Technologies
+- **Programming:** Python, R, SQL
+- **Data Manipulation:** Pandas, NumPy
+- **Machine Learning:** Scikit-learn, TensorFlow, XGBoost
+- **Data Visualization:** Matplotlib, Seaborn
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud Platforms:** AWS
+- **Version Control:** GitHub
 
-<!---
-singhraj827/singhraj827 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌱 Learning Goals
+- Deep learning for time-series data.
+- Advanced NLP techniques like transformers.
+- Scalable machine learning pipelines with Kubernetes.
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/abhisingh827/
+- Email: er.abhisingh827@gmail.com
+
+---
