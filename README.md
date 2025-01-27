@@ -35,8 +35,8 @@ I’m a passionate **Data Scientist** with expertise in uncovering insights from
             align-items: center;
         }
         .icon-container a img {
-            width: 40px;
-            height: 40px;
+            width: 30px;  /* Reduced size */
+            height: 30px; /* Reduced size */
             border-radius: 50%;
             transition: transform 0.3s ease;
         }
@@ -62,6 +62,3 @@ I’m a passionate **Data Scientist** with expertise in uncovering insights from
     </div>
 </body>
 </html>
-
-
----
