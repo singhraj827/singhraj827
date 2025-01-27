@@ -22,6 +22,7 @@ I’m a passionate **Data Scientist** with expertise in uncovering insights from
 ---
 
 ## 📫 Connect with Me
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,8 +36,8 @@ I’m a passionate **Data Scientist** with expertise in uncovering insights from
             align-items: center;
         }
         .icon-container a img {
-            width: 30px;  /* Reduced size */
-            height: 30px; /* Reduced size */
+            width: 30px;  /* Logo size */
+            height: 30px; /* Logo size */
             border-radius: 50%;
             transition: transform 0.3s ease;
         }
@@ -59,6 +60,11 @@ I’m a passionate **Data Scientist** with expertise in uncovering insights from
         <a href="https://www.instagram.com/sngh827/" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram">
         </a>
+        <!-- GitHub -->
+        <a href="https://github.com/sngh827" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub">
+        </a>
     </div>
 </body>
 </html>
+
