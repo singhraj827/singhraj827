@@ -23,6 +23,9 @@ I’m a passionate **Data Scientist** with expertise in uncovering insights from
 
 ## 📫 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/abhisingh827/
+[LinkedIn](https://www.linkedin.com/in/abhisingh827/) 
+[GitHub](https://github.com/singhraj827)
+[Instagram](https://www.instagram.com/sngh827/)
+[X](https://x.com/sngh827)
 Email: er.abhisingh827@gmail.com
-instagram: sngh827
+
